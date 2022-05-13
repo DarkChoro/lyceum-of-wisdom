@@ -1982,4 +1982,8 @@ Questão 494
 Qual dos seguintes é considerado um dos discípulos de Confúcio?
 R: Yan Hui
 
+Questão 495
+Nos quadrinhos da DC, qual é o nome verdadeiro do Batman?
+R: Bruce Wayne
+
 .
